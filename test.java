@@ -9,7 +9,7 @@ abstract class B implements A {import java.util.;
 interface A {
     abstract void x();
 }
-
+ｙｔｇろえｊごじぇろｇｊｒｊｇｒｇじぇおｒｇｊれおｇ
 abstract class B implements A {
     public void x(){}
 }
